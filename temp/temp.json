@@ -1,0 +1,21 @@
+{
+    "consumables":[
+        {
+            "chemical":[]
+        },
+        {
+            "bar":[
+                {
+                    "cups":[]
+                },
+                {
+                    "others":[]
+                }
+            ]
+        }            
+    ],
+    "packages":[],
+    "al_container":[],
+    "p_container":[],
+    "factory":[]
+}
