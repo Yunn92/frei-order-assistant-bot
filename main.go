@@ -124,7 +124,7 @@ func main() {
 func data_init() *FreiOrderBot.OrderTree {
 	var goods FreiOrderBot.OrderTree
 
-	file, err := os.Open("./temp/goods.json")
+	file, err := os.Open("./goods.json")
 	if err != nil {
 		panic(err)
 	}
